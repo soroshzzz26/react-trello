@@ -42,9 +42,9 @@
     "lodash": "^4.17.11",
     "prop-types": "^15.7.2",
     "react-popopo": "^2.1.9",
-    "react-redux": ">= 7.2.3",
+    "react-redux": "^7.2.3",
     "redux": "^5.0.1",
-    "redux-actions": ">= 2.6.1",
+    "redux-actions": "^2.6.1",
     "redux-logger": "^3.0.6",
     "trello-smooth-dnd": "1.0.0",
     "uuid": "^3.3.2"
