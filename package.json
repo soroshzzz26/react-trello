@@ -19,6 +19,7 @@
     "commit": "git cz",
     "deploy-storybook": "storybook-to-ghpages",
     "format": "pretty-quick \"src/**/*.js\"",
+    "size": "size-limit"
   },
   "repository": {
     "type": "git",
